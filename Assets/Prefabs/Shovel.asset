@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f41d065157049f4097b02dea8523d39, type: 3}
+  m_Name: Shovel
+  m_EditorClassIdentifier: 
+  itemName: shovel
+  range: 0
+  cost: 1
+  damage: 0
+  sprite: {fileID: 6639657697291588988, guid: 216133d42a4f879418abbdcee9734337, type: 3}
