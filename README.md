@@ -2,6 +2,8 @@
 
 Submission for Level Up Circle: Hardcore Jam #1. The theme for this submission is 'Foreign Entity' with the constraints of 'Board Game'.
 
+Play it here: https://sh1ft15.itch.io/foreign-trails
+
 Controls:
 - Mouse to interact with surrounding.
 - Left-Click to roll dice / end turn.
